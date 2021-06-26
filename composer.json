@@ -7,10 +7,15 @@
         {
             "name": "Jean Kemparski Ribeiro",
             "email": "jean.k.ribeiro@gmail.com"
+        },
+        {
+            "name": "Aaron McGowan",
+            "email": "aaron@digitalconvergence.ca"
         }
     ],
     "require": {
-        "symfony/finder": "2.8"
+        "composer/composer": "*",
+        "symfony/finder": "^5.3"
     },
     "autoload": {
         "classmap": [
