@@ -1,5 +1,5 @@
 {
-    "name": "jkribeiro/composer-hydration",
+    "name": "amcgowanca/composer-hydration",
     "description": "Provides a Composer script to project skeleton hydration by placeholders replacements.",
     "keywords": ["hydrate", "placeholder", "replace", "wildcard", "scaffold", "skel"],
     "license": "MIT",
