@@ -15,7 +15,7 @@
     ],
     "require": {
         "composer/composer": "*",
-        "symfony/finder": "^5.3"
+        "symfony/finder": "~5"
     },
     "autoload": {
         "classmap": [
